@@ -1,0 +1,33 @@
+.cw-alert .alert-icon{background-image:url("blob:https://www.icloud.com/e683656e-e076-45de-9484-bf85aa6c5411")}
+.cw-alert .alert-icon.info::after{background-image:url("blob:https://www.icloud.com/4b4362d3-995f-4c99-b1b1-5157ee86db89")}
+.cw-alert .alert-icon.error::after{background-image:url("blob:https://www.icloud.com/0fbd33ec-4d47-41ba-acd2-01ea46e1a760")}
+.cw-alert .alert-icon.checked::after{background-image:url("blob:https://www.icloud.com/3d330820-8147-4f44-af13-51fd5da05799")}
+.cw-alert .alert-icon.sharing::after{background-image:url("blob:https://www.icloud.com/aa336f1d-c410-4bce-b691-33c4a8899cc5")}
+cw-checkbox input+label::before{background-image:url("blob:https://www.icloud.com/fd7809a9-a2ae-40b9-afe1-111c4a037e4c")}
+cw-checkbox input:active+label::before{background-image:url("blob:https://www.icloud.com/229bbad8-0ef9-48d8-a9bf-dd3aa3ea1fc7")}
+cw-checkbox input:checked+label::before{background-image:url("blob:https://www.icloud.com/b8c93e54-4b20-46e2-b859-62762be8df06")}
+cw-checkbox input:active:checked+label::before{background-image:url("blob:https://www.icloud.com/66908087-6429-4ae2-8f1e-74327690bc03")}
+cw-checkbox input:indeterminate+label::before{background-image:url("blob:https://www.icloud.com/5c3e8125-a516-4b76-93c8-2efdc5dad332")}
+cw-checkbox input:active:indeterminate+label::before{background-image:url("blob:https://www.icloud.com/36db95e8-b788-41da-a594-4958da81b576")}
+.close-icon-button-view .title{background-image:url("blob:https://www.icloud.com/3b9fa2c9-c276-4ae0-b414-b4e2f99a8dbf")}
+.cw-alert .alert-main-content .alert-icon{background-image:url("blob:https://www.icloud.com/04c9169e-14a2-4768-a9d1-9ab11979e4a7")}
+.scalable-app-switcher-item-view.disabled:not(.locked)>.warning-icon{background-image:url("blob:https://www.icloud.com/04c9169e-14a2-4768-a9d1-9ab11979e4a7")}
+.app-switcher-item-view .app-switcher-item-content.disabled .icon-overlay::after{background-image:url("blob:https://www.icloud.com/04c9169e-14a2-4768-a9d1-9ab11979e4a7")}
+.cw-alert .alert-main-content .alert-icon.icloud-icon{background-image:url("blob:https://www.icloud.com/cf6c00f9-3104-415e-8321-dc0425ad321d")}
+.cw-alert .alert-main-content .alert-icon.reminders-icon{background-image:url("blob:https://www.icloud.com/7ac0be41-85ef-4340-848c-4c718625e167")}
+.cw-alert .alert-main-content .alert-icon.photos-icon{background-image:url("blob:https://www.icloud.com/ac2ec522-2bce-4e88-9535-a0faac7f9aaa")}
+.scalable-app-switcher-item-view.locked>.locked-icon{background-image:url("blob:https://www.icloud.com/85903a54-3a7f-483c-ba07-2c71ece2eff2")}
+.app-switcher-item-view .app-switcher-item-content.locked .icon-overlay::after{background-image:url("blob:https://www.icloud.com/85903a54-3a7f-483c-ba07-2c71ece2eff2")}
+.quick-access .quick-access-button-view.fmip .quick-access-icon{background-image:url("blob:https://www.icloud.com/78ae39d1-813d-4f21-ba3f-21997f0a72ad")}
+.quick-access .quick-access-button-view.apple-pay .quick-access-icon{background-image:url("blob:https://www.icloud.com/eb03ceed-6afb-4f2b-827b-cacff6bea59a")}
+.windows.edge-or-ie .quick-access .quick-access-button-view.apple-pay .quick-access-icon.funky-dpr{background-image:url("blob:https://www.icloud.com/2b3e1f24-d3a3-4ba8-87ca-f3bd27aa4264")}
+.quick-access .quick-access-button-view.apple-watch .quick-access-icon{background-image:url("blob:https://www.icloud.com/7e909797-fa63-4352-b1fd-6fdd69d5021b")}
+.app-switcher-item-view .app-switcher-item-content .app-switcher-spinner-view{background-image:url("blob:https://www.icloud.com/8ce84ede-c949-4908-812b-f97e9cba46eb")}
+.china-terms-view .content-scroll-view .china-terms-content-view .china-terms-logo{background-image:url("blob:https://www.icloud.com/c4bef9cb-c3e6-40b5-b611-d2294afb496c")}
+.base-modal-arrow-popover-view .cw-popover-view>.cw-popover-arrow.cw-right-arrow{background-image:url("blob:https://www.icloud.com/551cc083-4e7d-4a47-8f1a-940ad89edb85")}
+.base-modal-arrow-popover-view .cw-popover-view>.cw-popover-arrow.cw-left-arrow{background-image:url("blob:https://www.icloud.com/08bd704b-04f7-40a1-9c44-1837fe16a53a")}
+.base-modal-arrow-popover-view .cw-popover-view>.cw-popover-arrow.cw-up-arrow{background-image:url("blob:https://www.icloud.com/aa5d1775-de1d-44d9-9888-0fcc027c95e2")}
+.base-modal-arrow-popover-view .cw-popover-view>.cw-popover-arrow.cw-down-arrow{background-image:url("blob:https://www.icloud.com/f159fada-6342-45de-9531-9a8d4a04bb0a")}
+.popover-view .cw-popover-arrow.cw-up-arrow{background-image:url("blob:https://www.icloud.com/9e65e44e-fe33-46cc-9f55-f63198d45c6b")}
+.popover-view .cw-popover-arrow.cw-down-arrow{background-image:url("blob:https://www.icloud.com/b9fd1048-e788-43f4-a890-c977a7bb6f01")}
+.popover-view .cw-popover-arrow.cw-right-arrow{background-image:url("blob:https://www.icloud.com/7530b29b-6791-4cbf-aa5a-046e274ee740")}
